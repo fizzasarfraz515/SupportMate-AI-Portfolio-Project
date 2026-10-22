@@ -17,9 +17,9 @@ A portfolio demo for an AI-powered customer support chatbot. Built with React + 
 - Python 3.10+ recommended
 - A Gemini API key from Google AI Studio
 
-## 1. Configure the Gemini API key
+## 1. Configure the Groq API key
 
-1. Open Google AI Studio: https://aistudio.google.com/
+1. Open Groq API KEY Cloud
 2. Create or select a project and create an API key.
 3. Copy `backend/.env.example` to `backend/.env`.
 4. Replace the placeholder with your key. Never put this key in the frontend or commit it to Git.
