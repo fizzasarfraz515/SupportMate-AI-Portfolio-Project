@@ -1,0 +1,5 @@
+:root { font-synthesis: none; text-rendering: optimizeLegibility; }
+* { box-sizing: border-box; }
+html { min-width: 320px; background: #fff; }
+body { margin: 0; min-width: 320px; min-height: 100vh; }
+button:focus-visible, textarea:focus-visible { outline: 3px solid #b7afff; outline-offset: 2px; }
